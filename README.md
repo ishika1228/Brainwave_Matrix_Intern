@@ -1,5 +1,6 @@
 # Brainwave_Matrix_Intern
 Power BI Sales Data Analysis Dashboard
+
 Overview- This Power BI dashboard provides a comprehensive sales analysis for a commercial store. It visualizes key business metrics, helping stakeholders make data-driven decisions. The dashboard is designed as a single-page storytelling canvas, summarizing essential insights in a clear and interactive manner.
 
 Features-
